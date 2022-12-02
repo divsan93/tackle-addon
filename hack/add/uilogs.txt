@@ -1,0 +1,1238 @@
+[HPM] Proxy created: /  -> http://localhost:9001
+[HPM] Subscribed to http-proxy events: [ 'error', 'close' ]
+[HPM] Proxy created: /  -> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Proxy rewrite rule created: "^/hub" ~> ""
+[HPM] Subscribed to http-proxy events: [ 'proxyReq', 'proxyRes', 'error', 'close' ]
+Server listening on port::8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] POST /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/6" to "/tasks/6"
+[HPM] GET /hub/tasks/6 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/8" to "/tasks/8"
+[HPM] GET /hub/tasks/8 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/8" to "/tasks/8"
+[HPM] GET /hub/tasks/8 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/9" to "/tasks/9"
+[HPM] GET /hub/tasks/9 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/10" to "/tasks/10"
+[HPM] GET /hub/tasks/10 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/10" to "/tasks/10"
+[HPM] GET /hub/tasks/10 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/10" to "/tasks/10"
+[HPM] GET /hub/tasks/10 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/1" to "/applications/1"
+[HPM] GET /hub/applications/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/12" to "/tasks/12"
+[HPM] GET /hub/tasks/12 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/12" to "/tasks/12"
+[HPM] GET /hub/tasks/12 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/12" to "/tasks/12"
+[HPM] GET /hub/tasks/12 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/12" to "/tasks/12"
+[HPM] GET /hub/tasks/12 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/1" to "/applications/1"
+[HPM] GET /hub/applications/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] GET /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/stakeholders" to "/stakeholders"
+[HPM] GET /hub/stakeholders ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/1/bucket/list/" to "/applications/1/bucket/list/"
+[HPM] GET /hub/applications/1/bucket/list/ ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/12" to "/tasks/12"
+[HPM] GET /hub/tasks/12 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/1" to "/applications/1"
+[HPM] GET /hub/applications/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications/2" to "/applications/2"
+[HPM] GET /hub/applications/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/11" to "/tasks/11"
+[HPM] GET /hub/tasks/11 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/13" to "/tasks/13"
+[HPM] GET /hub/tasks/13 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/14" to "/tasks/14"
+[HPM] GET /hub/tasks/14 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/14" to "/tasks/14"
+[HPM] GET /hub/tasks/14 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/14" to "/tasks/14"
+[HPM] GET /hub/tasks/14 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/14" to "/tasks/14"
+[HPM] GET /hub/tasks/14 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/14" to "/tasks/14"
+[HPM] GET /hub/tasks/14 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/stakeholders" to "/stakeholders"
+[HPM] GET /hub/stakeholders ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/business-services/2" to "/business-services/2"
+[HPM] GET /hub/business-services/2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/business-services/1" to "/business-services/1"
+[HPM] GET /hub/business-services/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/business-services/1" to "/business-services/1"
+[HPM] GET /hub/business-services/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks" to "/tasks"
+[HPM] POST /hub/tasks ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/15" to "/tasks/15"
+[HPM] GET /hub/tasks/15 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/15" to "/tasks/15"
+[HPM] GET /hub/tasks/15 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/15" to "/tasks/15"
+[HPM] GET /hub/tasks/15 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/15" to "/tasks/15"
+[HPM] GET /hub/tasks/15 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tasks/15" to "/tasks/15"
+[HPM] GET /hub/tasks/15 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices" to "/businessservices"
+[HPM] GET /hub/businessservices ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/businessservices/1" to "/businessservices/1"
+[HPM] GET /hub/businessservices/1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tags/29" to "/tags/29"
+[HPM] GET /hub/tags/29 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes" to "/tagtypes"
+[HPM] GET /hub/tagtypes ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/identities" to "/identities"
+[HPM] GET /hub/identities ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments/assessment-risk" to "/pathfinder/assessments/assessment-risk"
+[HPM] POST /hub/pathfinder/assessments/assessment-risk ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/applications" to "/applications"
+[HPM] GET /hub/applications ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/reviews" to "/reviews"
+[HPM] GET /hub/reviews ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=1" to "/pathfinder/assessments?applicationId=1"
+[HPM] GET /hub/pathfinder/assessments?applicationId=1 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/pathfinder/assessments?applicationId=2" to "/pathfinder/assessments?applicationId=2"
+[HPM] GET /hub/pathfinder/assessments?applicationId=2 ~> http://tackle-hub.konveyor-tackle.svc:8080
+[HPM] Rewriting path from "/hub/tagtypes/1" to "/tagtypes/1"
+[HPM] GET /hub/tagtypes/1 ~> http://tackle-hub.konveyor-tackle.svc:8080

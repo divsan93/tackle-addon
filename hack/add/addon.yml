@@ -1,0 +1,7 @@
+---
+kind: Addon
+apiVersion: tackle.konveyor.io/v1alpha1
+metadata:
+  name: addon-jeff
+spec:
+  image: quay.io/divsan/addon-jeff:latest
